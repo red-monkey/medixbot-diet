@@ -1,0 +1,12 @@
+Flask==2.2.2
+Flask-SQLAlchemy==2.5.1
+keras==2.9.0
+marshmallow==3.17.0
+marshmallow-sqlalchemy==0.28.1
+numpy==1.23.1
+Pillow==9.2.0
+tensorflow-cpu
+SQLAlchemy==1.4.40
+gunicorn
+flask-cors
+waitress
