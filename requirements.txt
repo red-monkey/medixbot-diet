@@ -10,3 +10,4 @@ SQLAlchemy==1.4.40
 gunicorn
 flask-cors
 waitress
+Werkzeug==2.2.2
